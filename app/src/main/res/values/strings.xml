@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ListView</string>
+    <string name="todo">TODO</string>
+    <string name="texto_modificable">Texto modificable</string>
+
+    <!--Nodo de strings para un array-->
+    <string-array name="personas">
+
+        <item>Juan</item>
+        <item>David</item>
+        <item>German</item>
+        <item>Agustin</item>
+        <item>Marcelo</item>
+        <item>Jose</item>
+        <item>Sofia</item>
+        <item>Estela</item>
+
+    </string-array>
+</resources>
